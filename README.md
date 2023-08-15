@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE), allowing for both per
 
 ---
 
-Thank you for your interest in Subhash's Portfolio Flutter Web project. For any questions or inquiries, please contact me at [https://subhash-dev-ca050.web.app/].
+Thank you for your interest in Subhash's Portfolio Flutter Web project. For any questions or inquiries, please contact me at https://subhash-dev-ca050.web.app/ .
 
  
 
